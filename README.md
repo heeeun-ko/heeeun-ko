@@ -46,7 +46,10 @@
 
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:99ant@yonsei.ac.kr">
+    <a href="mailto:chorok7ko@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> 
+    </a>
+    <a href="https://velog.io/@chorok/posts" target="_blank">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
     </a>
 </div><br>
